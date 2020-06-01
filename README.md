@@ -1,11 +1,11 @@
 # GitHub for Developers
 
-- Class Date: THIS-DATE
-- Facilitator: @TEACHER-HANDLE
+- Class Date: June 1-2, 2020
+- Facilitator: @gusshawstewart
 
 ## Talk to Us!!
 
-If you have a question, or need assistance during class, **please create an issue and mention @TEACHER-HANDLE**.
+If you have a question, or need assistance during class, **please create an issue and mention @gusshawstewart**.
 
 ## Give Us Feedback
 
